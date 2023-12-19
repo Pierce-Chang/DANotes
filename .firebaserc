@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "danotes-9ec5a": {
+      "hosting": {
+        "da-keep": [
+          "danotes-9ec5a"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "danotes-9ec5a"
+  }
+}
