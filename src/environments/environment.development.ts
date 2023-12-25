@@ -1,11 +1,10 @@
 export const environment = {
-  production: false,
-  firebase: {
-    projectId: 'notepad-cfd10',
-    appId: '1:743878296666:web:3ed6a667e1c2554f908463',
-    storageBucket: 'notepad-cfd10.appspot.com',
-    apiKey: 'AIzaSyD1Hx4cFBOC8jZNc6JSYzIZPPyw68Vw-Dk',
-    authDomain: 'notepad-cfd10.firebaseapp.com',
-    messagingSenderId: '743878296666',
-  },
+    firebase: {
+    projectId:"danotes-9ec5a",
+    appId:"1:275202762816:web:006bb5e226c12699f197a5",
+    storageBucket:"danotes-9ec5a.appspot.com",
+    apiKey:"AIzaSyAEonze12KtPuaAAvd6vm_qjukskOpa8F8",
+    authDomain:"danotes-9ec5a.firebaseapp.com",
+    messagingSenderId:"275202762816"
+    },
 };
